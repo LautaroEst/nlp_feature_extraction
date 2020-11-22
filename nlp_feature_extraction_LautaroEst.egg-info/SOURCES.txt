@@ -1,6 +1,0 @@
-setup.py
-nlp_feature_extraction/__init__.py
-nlp_feature_extraction_LautaroEst.egg-info/PKG-INFO
-nlp_feature_extraction_LautaroEst.egg-info/SOURCES.txt
-nlp_feature_extraction_LautaroEst.egg-info/dependency_links.txt
-nlp_feature_extraction_LautaroEst.egg-info/top_level.txt
